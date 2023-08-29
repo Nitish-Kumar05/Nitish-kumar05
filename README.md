@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Nitish Kumar</h1>
 <h3 align="center">I create websites and build games in unreal engine</h3>
-<img align='right' alt='coding gif' width='400' src='https://i.gifer.com/4I9G.gif'/>
+<img align='right' alt='coding gif' width='400' src='https://i.gifer.com/4I9G.gif'></img>
 
 <p align="left"> <a href="https://twitter.com/mvnitishkumar" target="blank"><img src="https://img.shields.io/twitter/follow/mvnitishkumar?logo=twitter&style=for-the-badge" alt="mvnitishkumar" /></a> </p>
 
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **reactjs or unreal engine**
 
-- 💬 Ask me about **frontend and games**
+- 💬 Ask me about **frontend and video games**
 
 - 📫 How to reach me **mvnitishkumar@gmail.com**
 
