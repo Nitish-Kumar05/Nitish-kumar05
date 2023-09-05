@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on improving programming skills<br>👯 I’m looking to collaborate on front-end development<br>💬 Ask me about reactJS and video games<br>⚡ Fun fact I am batman
+🔭 I’m currently working on improving programming skills<br>👯 I’m looking to collaborate on front-end development<br>💬 Ask me about reactJS and video games<br>⚡ Fun fact I am batman<br> 👨🏻‍💻 [Check out my portfolio](https://mvnitishkumar-portfolio.vercel.app)
+
 
 
 ## 🌐 Socials:
