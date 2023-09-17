@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning python with django<br>👯 I’m looking to collaborate on front-end development<br>💬 Ask me about reactJS and video games<br> 👨🏻‍💻 [Check out my portfolio](https://mvnitishkumar-portfolio.vercel.app)<br> 🦇 Fun fact I am batman
+🔭 I’m currently learning python with django<br>👯 I’m looking to collaborate on front-end development<br>💬 Ask me about reactJS and video games<br> 👨🏻‍💻 [Check out my portfolio](https://mvnitishkumar-portfolio.vercel.app)<br> 🦇 Fun fact I am batman<br> 🎓 intern
 
 
 
