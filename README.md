@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning python with django<br>👯 I’m looking to collaborate on front-end development<br>💬 Ask me about reactJS and video games<br> 👨🏻‍💻 [Check out my portfolio](https://mvnitishkumar-portfolio.vercel.app)<br>🎓 intern <br> 🦇 Fun fact I am batman
+🔭 I’m currently learning python with django<br>👯 I’m looking to collaborate on front-end development<br>💬 Ask me about reactJS <br> 👨🏻‍💻 [Check out my portfolio](https://mvnitishkumar-portfolio.vercel.app)<br>🎓 intern <br> 🦇 Fun fact I am batman
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish-kumar-mv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mvnitishkumar)
